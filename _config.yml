@@ -18,3 +18,7 @@ twitter_username: talesfromanewdad
 
 # Build settings
 markdown: kramdown
+paginate: 5
+
+kramdown:
+  syntax_highlighting: rouge
