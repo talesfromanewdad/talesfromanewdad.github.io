@@ -5,8 +5,4 @@ title: False Starts
 
 _Four._ The number of times we've been in the hospital since getting pregnant.
 
-It's a weird feeling being frightened and excited at the same time. I've always thought the two feeling were mutually exclusive. We want to meet our child, but we also want her to stay in for as long as she needs to. We're at 36 weeks today; I'm confident that all would be well, but confidence doesn't count for anything in this case.
-
-<!--more-->
-
-In the mean time, my wife and I are hanging out in our hospital room. She's learning HTML on [codeacademy.org](http://codeacademy.org)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
