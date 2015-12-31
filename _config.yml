@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Tales From a New Dad
+tagline:             'I have no idea what I''m doing.'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://blog.talesfromanewdad.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Jay
+  url:               http://talesfromanewdad.com
+  email:             talesfromanewdad@gmail.com
+
+# Custom vars
+version:             1.0.0
+gems:               [jekyll-paginate]
