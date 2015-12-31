@@ -19,13 +19,3 @@
            vertical-align: baseline !important;
            padding-top: 3px;
        }
-
-.custom-footer{
-  background-color: #6a9fb5;
-  height: 30px;
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  color: #fff;
-  font-size: 12px;
-}
