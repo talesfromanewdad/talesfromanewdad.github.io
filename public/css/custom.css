@@ -1,15 +1,7 @@
-.readmore{
-  background-color: #6a9fb5;
-  border-radius: 10px;
-  color: #ffffff;
-  padding: 5px 12px;
-  width: 185px;
-  float: right;
-
-}
-
-.readmore-text{
-  color: #ffffff
+#readmore{
+color: #6a9fb5;
+font-weight: bold;
+float: right;
 }
 
 
@@ -19,3 +11,73 @@
            vertical-align: baseline !important;
            padding-top: 3px;
        }
+
+#tfandlogo {
+  float: left;
+  position: relative;
+  margin-top: -13px;
+  margin-bottom: 0px;
+
+  }
+
+
+
+
+
+
+
+/*iPhone 6 Portrait*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
+  #tfandlogo{
+    display: none;
+  }
+
+}
+
+/*iPhone 6 landscape*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : landscape) {
+  #tfandlogo{
+    display: none;
+  }
+
+}
+
+/*iPhone 6+ Portrait*/
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : portrait) {
+  #tfandlogo{
+    display: none;
+  }
+
+}
+
+/*iPhone 6+ landscape*/
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : landscape) {
+  #tfandlogo{
+    display: none;
+  }
+
+}
+
+/*iPhone 6 and iPhone 6+ portrait and landscape*/
+@media only screen and (max-device-width: 640px), only screen and (max-device-width: 667px), only screen and (max-width: 480px){
+  #tfandlogo{
+    display: none;
+  }
+
+}
+
+/*iPhone 6 and iPhone 6+ portrait*/
+@media only screen and (max-device-width: 640px), only screen and (max-device-width: 667px), only screen and (max-width: 480px) and (orientation : portrait){
+  #tfandlogo{
+    display: none;
+  }
+
+}
+
+/*iPhone 6 and iPhone 6+ landscape*/
+@media only screen and (max-device-width: 640px), only screen and (max-device-width: 667px), only screen and (max-width: 480px) and (orientation : landscape){
+  #tfandlogo{
+    display: none;
+  }
+
+}
