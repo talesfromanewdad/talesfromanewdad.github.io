@@ -16,9 +16,9 @@ Some may not think that a newborn has anything to teach an adult. _They couldn't
 _Tabula rasa_ means "clean slate" in latin. Just as I did, you'll make mistakes in life. Some are trivial and easily forgotten, while others linger for what may seem indefinitely. Witnessing the birth of a child - seeing the cleanest slate in existence - has made me realize that the slate, whether clean or besmirched, is truly in my control. I need only let go of my misgivings to restore my slate to its original standing.
 
 ###Hope###
-Life is finite. We have only a short time to fulfill our hopes and dreams. Many will say to pursue your dreams vigilantly. They'd be right. In the end, however, we may not achieve all that we set out to. Life has no script, nothing is set in stone. Paths change and some dreams will often fall to the wayside as part of every day life. I've come to realize that I may never finish what I set out to achieve. While we may add to our list of goals, they are rarely excised. In some cases, not achieving the goals we set for ourselves can result in feelings of regret.
+Life is finite. We have only a short time to fulfill our hopes and dreams. Many will say to pursue your dreams vigilantly. They'd be right. In the end, however, we may not achieve all that we set out to. Life has no script, nothing is set in stone. Paths change and some dreams will often fall to the wayside as part of every day life. I've come to realize that I may never finish what I set out to achieve. While we may add to our list of goals, they are rarely excised. In some cases, not achieving the goals we set for ourselves can result in feelings of regret. It is within ourselves to push the regret aside and move forward.
 
-Your birth begets hope. While I may not accomplish all that I desire, I know that you have a chance to do for yourself what I could not do for myself.
+Your birth begets hope. While I may not accomplish all that I desire in my lifetime, I know that you have a chance to do for yourself what I could not do for myself.
 
 ##What you can learn from me##
 
@@ -30,16 +30,16 @@ Knowledge is an incredibly important part of life. Your education continues beyo
 ###Love###
 Love is not objective. It's nearly impossible to explain and each person you ask will describe it differently. Here are a few tips I can offer you:
 
-* Always respect yourself. Do not allow others to influence how you feel about yourself.
+* Always respect yourself. Don't allow others to influence how you feel about yourself.
 
-* Relationships are partnerships. There is no majority stakeholder. Both are equal.
+* Relationships are partnerships. There's no majority stakeholder. Both are equal.
 
-* Love knows no race, religion, or gender. We do not pick who we love.
+* Love knows no race, religion, or gender. We do not pick who we love. Follow your heart, but don't completely ignore your brain.
 
 * Be honest with yourself and with your partner. Don't attempt to be someone you aren't in order to appeal to another.
 
 ###Our World###
-The world you were born into is both extraordinary *and* atrocious. Our society has made great strides over the last century, but intolerance and a culture of ignorance threatens to destroy all that we have all worked to hard to build. Despite being the age of information, where ignorance should be nonexistent, people seem to go out of their way to ignore logic and fact. Some even take pride in their ignorance. We must not succumb to this way of thinking. Education is the key to maintaining our society. With education, comes understanding, and with understanding comes tolerance and patience, and with tolerance and patience, comes peace and prosperity.
+The world you were born into is both extraordinary **and** atrocious. Our society has made great strides over the last century, but intolerance and a culture of ignorance threatens to destroy all that we have all worked so hard to build. Despite being the age of information, where ignorance should be nonexistent, people seem to go out of their way to ignore logic and fact. Some even take pride in their ignorance. We must not succumb to this way of thinking (_or **not** thinking, depending on how you look at it_). Education is the key to maintaining our society. With education, comes understanding, and with understanding comes tolerance and patience, and with tolerance and patience, comes peace and prosperity.
 
 ##The Future##
 I look forward to...
@@ -74,9 +74,10 @@ I look forward to...
 
 * Walking you down the aisle. (_If that's your thing; marriage._)
 
-* Meeting our grandchild(ren). (_Again, totally up to you. Kind of._)
+* The birth(s) our grandchild(ren). (_Or adoption. Or no kids. Again, totally up to you. Kind of._)
 
-and whatever else our life together may bring.
+
+...and whatever else our life together may bring.
 
 With Unconditional Love,
 
