@@ -18,19 +18,3 @@ layout: default
 <span class="fb-like" data-href="http://blog.talesfromanewdad.com/{{ page.url }}" data-width="100%" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></span>
 </div>
 <div class="fb-comments" data-href="http://blog.talesfromanewdad.com/{{ page.url }}" data-numposts="5" data-width="100%"></div>
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
