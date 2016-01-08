@@ -20,7 +20,12 @@ float: right;
 
   }
 
-
+.footer{
+  position: relative;
+      width: 320px;
+    margin: 0 auto;
+    text-align: center;
+  }
 
 
 
