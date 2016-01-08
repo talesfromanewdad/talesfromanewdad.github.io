@@ -16,9 +16,7 @@ Some may not think that a newborn has anything to teach an adult. _They couldn't
 _Tabula rasa_ means "clean slate" in latin. Just as I did, you'll make mistakes in life. Some are trivial and easily forgotten, while others linger for what may seem indefinitely. Witnessing the birth of a child - seeing the cleanest slate in existence - has made me realize that the slate, whether clean or besmirched, is truly in my control. I need only let go of my misgivings to restore my slate to its original standing.
 
 ###Hope###
-Life is finite. We have only a short time to fulfill our hopes and dreams. Many will say to pursue your dreams vigilantly. They'd be right. In the end, however, we may not achieve all that we set out to. Life has no script, nothing is set in stone. Paths change and some dreams will often fall to the wayside as part of every day life. I've come to realize that I may never finish what I set out to achieve. While we may add to our list of goals, they are rarely excised. In some cases, not achieving the goals we set for ourselves can result in feelings of regret. It is within ourselves to push the regret aside and move forward.
-
-Your birth begets hope. While I may not accomplish all that I desire in my lifetime, I know that you have a chance to do for yourself what I could not do for myself.
+You birth begets hope. Knowing that you have a lifetime ahead of you to fulfill your dreams gives inspires me to not give up on my own.
 
 ##What you can learn from me##
 
